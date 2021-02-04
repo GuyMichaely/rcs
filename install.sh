@@ -11,6 +11,5 @@ programs += " redshift"
 # misc
 programs += " cowsay"
 
-
 for program in $programs; do
 	sudo apt-get install -y $program
