@@ -13,3 +13,6 @@ programs += " cowsay"
 
 for program in $programs; do
 	sudo apt-get install -y $program
+
+# custom utilities
+cp imgur /usr/local/bin/imgur
