@@ -1,2 +1,0 @@
-# added by me
-shopt -s dotglob
